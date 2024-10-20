@@ -24,12 +24,12 @@ namespace _01_MainSubjects
             string customerSurname;
             string customerPhone;
             string customerEmail, district, city;
-            customerName = "Ali";
-            customerSurname = "Çınar";
-            customerPhone = "+90 500 400 30 20";
+            customerName = "Kadir";
+            customerSurname = "Uzun";
+            customerPhone = "+905511454545";
             customerEmail = "deneme@gmail.com";
-            district = "Kadıköy";
-            city = "İstanbul";
+            district = "Cubuk";
+            city = "Ankara";
 
             Console.WriteLine("**** Rezervasyon Kartı ****");
             Console.WriteLine();
@@ -44,7 +44,7 @@ namespace _01_MainSubjects
 
             customerName = "Ayşegül";
             customerSurname = "Kaya";
-            customerPhone = "+90 400 300 80 70";
+            customerPhone = "+955555555";
             customerEmail = "test@gmail.com";
             district = "Sapanca";
             city = "Sakarya";
